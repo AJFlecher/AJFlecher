@@ -8,7 +8,7 @@
 
 [![HitCount](http://hits.dwyl.com/Raghav-byte/Raghav-byte.svg)](http://hits.dwyl.com/Raghav-byte/Raghav-byte)
 
-Me gusta todo lo que tiene que ver con automatizacion de rocesos industriales y la tecnologia 🤓
+Me gusta todo lo que tiene que ver con automatizacion de procesos industriales y la tecnologia 🤓
 
 - 🔭 Actualmente trabajo en Smartlog Panamá
 - 🌱 CAda dia aprendo un poco mas de equipos automatizados 🤔
