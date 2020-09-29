@@ -14,8 +14,8 @@ Me gusta todo lo que tiene que ver con automatizacion de rocesos industriales y 
 - 🌱 CAda dia aprendo un poco mas de equipos automatizados 🤔
 - 📫 How to reach me:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raghav-byte/)](https://www.linkedin.com/in/raghav-byte/) 
-, [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:shuklaraghav321@gmail.com)
-,[![Twitter Badge](https://img.shields.io/badge/-Raghav-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/_raghavit)](https://twitter.com/_raghavit)
+, [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:ajf0584@gmail.com)
+,[![Twitter Badge](https://img.shields.io/badge/-Raghav-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/_aflecher)](https://twitter.com/_aflecher)
 - ⚡ Fun fact: Jack of all trades , Master of None ! 
 
 ### Estadisticas sobre AJFlecher
